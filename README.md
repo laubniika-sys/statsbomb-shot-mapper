@@ -10,6 +10,10 @@ A visualização final plota os eventos de finalização diretamente em um model
 
 ---
 
+### ⚽ Contexto da Partida Analisada
+- **Competição:** 1. Bundesliga (Temporada 2023/2024)
+- **Confronto:** Borussia Dortmund (Azul) x Bayer Leverkusen (Vermelho)
+
 ## 🎯 Resultado Visual
 
 Abaixo está o mapa de chutes gerado pelo script, separando as equipes de forma espacial e quantitativa:
