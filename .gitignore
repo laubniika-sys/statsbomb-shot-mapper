@@ -1,0 +1,26 @@
+cat << 'EOF' > .gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook Caches
+.ipynb_checkpoints
+
+# Environments (Ambientes virtuais)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Data and large files
+*.csv
+*.json
+!*.ipynb
+
+# Mac/Windows OS system files
+.DS_Store
+Thumbs.db
+EOF
