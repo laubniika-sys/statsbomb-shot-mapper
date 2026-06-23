@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📊 Análise de Dados Esportivos: Mapeamento de Chutes com StatsBomb e mplsoccer
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
